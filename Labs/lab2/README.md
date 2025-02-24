@@ -1,4 +1,4 @@
-# Assignment 1: Multinominal Classification
+# Assignment 2: Multinominal Classification
 
 ![Multinominal Classification](multinominal_classification.png)
 
