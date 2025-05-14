@@ -1,4 +1,4 @@
-# Assignment5: Cartpole - Reinforcement Learning
+# Cartpole - Reinforcement Learning
 
 ![Cartpole with Reinforcement Learning](cartpole-rl.png)
 
