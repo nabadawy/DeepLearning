@@ -1,4 +1,4 @@
-# Assignment 5: Transformer-based Sentiment Analysis
+# Transformer-based Sentiment Analysis
 
 ![Visual Image Captioning](Cover.png)
 
